@@ -1,0 +1,3 @@
+In the folder DATA we can find the data necessary to train the parameters of the Hierarchical Multivariate Hawkes Model. For each community (database), the data have to be in a different folder. Due to legal requirements of privacy protection, the data inside this folder is not the real one but a synthetic version only valid to show how does the model work. As we can see, in the csv corresponding to each kind of event the first column corresponds to the user ID and the third one is its timestamp. The other columns are not used.
+
+In the folder MODELS we can find the python code used to build the models, train its parameters, plot the graphs... There is more information about each file inside the folder in the file README.txt
